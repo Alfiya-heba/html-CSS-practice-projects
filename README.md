@@ -1,1 +1,1 @@
-# [10 Html, CSS Practice Projects Deployment Link] ( html-css-practice-projects-os7s-d94atbyh5-alfiya-hebas-projects.vercel.app)
+[ Deployment Link] ( html-css-practice-projects-os7s-d94atbyh5-alfiya-hebas-projects.vercel.app)
